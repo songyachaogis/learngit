@@ -50,15 +50,6 @@ testTradeApiDlgDlg.h, testTradeApiDlgDlg.cpp - the dialog
     in testTradeApiDlg.rc, which can be edited in Microsoft Visual C++.
 
 
-/////////////////////////////////////////////////////////////////////////////
-
-Other Features:
-
-ActiveX Controls
-    The application includes support to use ActiveX controls.
-
-/////////////////////////////////////////////////////////////////////////////
-
 Other standard files:
 
 StdAfx.h, StdAfx.cpp
