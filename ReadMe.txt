@@ -1,4 +1,5 @@
-ycsong add a command!!!!
+ycsong add a new line!!!!
+
 
 ================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : testTradeApiDlg Project Overview
