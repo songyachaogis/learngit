@@ -1,3 +1,5 @@
+ycsong add a command!!!!
+
 ================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : testTradeApiDlg Project Overview
 ===============================================================================
